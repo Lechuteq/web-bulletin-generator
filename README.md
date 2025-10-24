@@ -95,7 +95,7 @@ The page discusses new AI-driven web tools and content analysis using local lang
 
 ---
 
-🧑‍💻 Technology Stack
+### 🧑‍💻 Technology Stack
 
 Python 3.10+
 
@@ -107,7 +107,7 @@ Ollama – local LLM inference
 
 Markdown Export – structured report generation
 
-🌟 Future Improvements
+### 🌟 Future Improvements
 
  Add asynchronous summarization
 
@@ -117,13 +117,13 @@ Markdown Export – structured report generation
 
  Add export to PDF/HTML
 
-👨‍💻 Author
+### 👨‍💻 Author
 
 Lesław Nowakowski  
 AI Enthusiast | Python Developer | BI & KYC Analyst | DPO | Automatization Specialist  
 🔗 www.linkedin.com/in/leslaw-nowakowski
 
-🖤 License
+### 🖤 License
 
 MIT License – free for use and modification with attribution.
 
